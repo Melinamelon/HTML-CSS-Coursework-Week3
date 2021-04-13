@@ -1,1 +1,24 @@
 /*  Add your styling here */
+
+.maincake {
+    margin-right: auto;
+}
+
+#grid2x2 {
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 15px;
+}
+
+.imgdiv, .imgdiv2, .imgdiv3, .imgdiv4 .proyect1, .proyect2, .proyect3, .proyect4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+    width: 40%;
+    padding: 10px;
+}
