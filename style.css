@@ -22,3 +22,11 @@
     width: 40%;
     padding: 10px;
 }
+
+.menuopcion {
+    text-align: right;
+}
+
+p.date {
+    text-align: right;
+}
